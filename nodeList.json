@@ -1,0 +1,17 @@
+[
+    {
+        "name": "节点01",
+        "address": "baidu.com",
+        "delay": null
+    },
+    {
+        "name": "节点02",
+        "address": "juejin.im",
+        "delay": null
+    },
+    {
+        "name": "节点03",
+        "address": "segmentfault.com",
+        "delay": null
+    }
+]
